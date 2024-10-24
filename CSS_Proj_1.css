@@ -1,0 +1,24 @@
+.head-intro {
+    font-family: "Times New Roman", Times, serif;
+    text-align: center;
+    padding: 5%;
+    margin:  3%;
+    border-style: inset;
+}
+
+.li-Album {
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+    padding: 2%;
+    margin:  2%;
+
+
+
+}
+
+.img-Album {
+    height: 50px;
+    width:  50px;
+    align-items: center;
+    
+
+}
